@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<<html>
 <head>
 <title>Creative Colorlib SignUp Form</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,9 +18,9 @@
 		<div class="main-agileinfo">
 			<div class="agileits-top">
 				<form action="#" method="post">
-					<input class="text" type="text" name="NomUtilisateur" placeholder="Username" required="">
-					<input class="text" type="text" name="nom" placeholder="Username" required="">
-					<input class="text" type="text" name="prenom" placeholder="Username" required="">
+					<input class="text" type="text" name="nom" placeholder="nom" required="">
+					<input class="text" type="text" name="prenom" placeholder="prenom" required="">
+					<input class="text" type="text" name="NomUtilisateur" placeholder="Nom Utilisateur" required="">
 					<input class="text email" type="email" name="mail" placeholder="Email" required="">
 					<input class="text" type="password" name="password" placeholder="Password" required="">
 					<input class="text w3lpass" type="password" name="password" placeholder="Confirm Password" required="">
